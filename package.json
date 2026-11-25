@@ -1,12 +1,12 @@
 {
   "name": "word-ladder-bfs-solver",
-  "version": "1.0.0",
-  "description": "Zero-dependency 4-letter ENABLE2K Word Ladder Breadth-First Search (BFS) shortest-path solver and Word Chain CLI.",
+  "version": "2.0.0",
+  "description": "Zero-dependency ENABLE2K Word Ladder Breadth-First Search (BFS) shortest-path, exact-step DFS, and wavefront trace CLI.",
   "type": "module",
   "main": "./src/solver.mjs",
   "bin": {
     "solve-ladder": "./bin/solve-ladder.mjs"
   },
   "license": "MIT",
-  "homepage": "https://getwordladder.com"
+  "homepage": "https://getwordladder.com/word-ladder-solver"
 }
